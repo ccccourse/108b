@@ -2,9 +2,9 @@
 
 如果可以存取 github 請繳交到 github 上。
 
-人工智慧: https://github.com/ccccourse/ai108b/issues
-系統程式: https://github.com/ccccourse/sp108b/issues
-網頁設計: https://github.com/ccccourse/wp108b/issues
+* 人工智慧: https://github.com/ccccourse/ai108b/issues
+* 系統程式: https://github.com/ccccourse/sp108b/issues
+* 網頁設計: https://github.com/ccccourse/wp108b/issues
 
 如果不行可以 email 給我: ccc@nqu.edu.tw, ccckmit@gmail.com
 
